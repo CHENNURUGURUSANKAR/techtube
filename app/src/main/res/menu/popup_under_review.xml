@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/one"
+        android:icon="@drawable/ic_approved"
+        android:title="Approved" />
+    <item
+        android:id="@+id/two"
+        android:icon="@drawable/ic_declined"
+        android:title="Recjected"/>
+    <item
+        android:id="@+id/three"
+        android:icon="@drawable/ic_under_review"
+        android:title="UnderReview"/>
+</menu>

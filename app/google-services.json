@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "585249263844",
+    "project_id": "techtube-41333",
+    "storage_bucket": "techtube-41333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585249263844:android:b3477b3587326a309adcf1",
+        "android_client_info": {
+          "package_name": "com.guru149companies.telugutechtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585249263844-88uhvcie6btoa6e8eals894ur1rg9utm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guru149companies.telugutechtube",
+            "certificate_hash": "36378b1c1bb1e6514fd64ff310348fc7b2068dcc"
+          }
+        },
+        {
+          "client_id": "585249263844-gkde2lg8ku53a5lgcmbhrh1m59jab9nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi2ZMdrHHs7sXalYTjmdWz5qdyQkQ07Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585249263844-gkde2lg8ku53a5lgcmbhrh1m59jab9nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
